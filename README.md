@@ -1,16 +1,19 @@
-## Hi there 👋
+### E ai? Eu sou o Pedro Lucas!👋👋
 
-<!--
-**PedroLucas1337/PedroLucas1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B7.svg?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/pedrolucasdecarvalhopinheiro/)
 
-Here are some ideas to get you started:
+![Pedro Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolucas1337&show_icons=true&theme=apprentice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu uso💻
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="jest" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white"/>
+  <img align="center" alt="JUnit" src="https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white"/>
+  <img align="center" alt="jest" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img align="center" alt="jest" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img align="center" alt="jest" src="https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white"/>
+
+</div>
+
+### Do The Simplest Thing That Could Possibly Work - Kent Beck
