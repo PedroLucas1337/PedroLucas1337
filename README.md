@@ -2,7 +2,6 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B7.svg?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/pedrolucasdecarvalhopinheiro/)
 
-![Pedro Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolucas1337&show_icons=true&theme=apprentice)
 
 ## Tecnologias que eu uso💻
 
